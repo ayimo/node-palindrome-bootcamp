@@ -1,0 +1,4 @@
+{
+  yes: "Yes, it's a palindrome",
+  no: "No, it's not a palindrome"
+}
